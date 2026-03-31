@@ -2,7 +2,7 @@
 icon: lucide/bot
 --- 
 
-# :lucide-bot: Personal AI Assistant (Desktop App)
+# :lucide-bot: Personal AI Assistant
 
 A desktop-based AI assistant for **real-world task execution and productivity**, built as a lightweight agent system with controlled autonomy.
 

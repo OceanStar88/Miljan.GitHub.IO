@@ -9,10 +9,10 @@ hide:
 **My personal projects**, reflecting my continuous efforts, evolving interests, and focus on building real-world AI systems.
 
 
-- [:lucide-bot-message-square: AI Service SaaS (SANAI)](AI-Service-SaaS-SANAI.md)  
+- [:lucide-bot-message-square: AI Service SaaS](AI-Service-SaaS.md)  
   Chat-based AI platform providing personas, translation, and data interaction services.
 
-- [:lucide-bot: Personal AI Assistant (Desktop App)](Personal-AI-Assistant-Desktop-App.md)  
+- [:lucide-bot: Personal AI Assistant](Personal-AI-Assistant.md)  
   Desktop AI agent for task execution, voice interaction, and productivity workflows.
 
 - [:lucide-cctv: Smart Surveillance System](Smart-Surveillance-System.md)  

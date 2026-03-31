@@ -2,7 +2,7 @@
 icon: lucide/bot-message-square
 --- 
 
-# :lucide-bot-message-square: AI Service SaaS (SANAI)
+# :lucide-bot-message-square: AI Service SaaS
 
 A web-based AI platform for interacting with **multimodal AI services** through a unified chat interface.
 
@@ -11,7 +11,7 @@ A web-based AI platform for interacting with **multimodal AI services** through 
 
 ## 🚀 Overview
 
-SANAI is a **full-stack AI SaaS application** that provides users with a conversational interface to access multiple AI-powered services.
+This is a **full-stack AI SaaS application** that provides users with a conversational interface to access multiple AI-powered services.
 
 It integrates **LLMs, voice/video processing, and data pipelines** into a single platform, enabling seamless interaction across different modalities.
 

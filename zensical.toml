@@ -110,8 +110,8 @@ nav = [
   { "Projects" = [
     { "Projects" = [
         "Projects/index.md",
-        "Projects/AI-Service-SaaS-SANAI.md",
-        "Projects/Personal-AI-Assistant-Desktop-App.md",
+        "Projects/AI-Service-SaaS.md",
+        "Projects/Personal-AI-Assistant.md",
         "Projects/Smart-Surveillance-System.md",
         "Projects/Medical-Imaging-Analysis-SaaS.md",
         "Projects/AI-Learning-Path-Platform.md"
