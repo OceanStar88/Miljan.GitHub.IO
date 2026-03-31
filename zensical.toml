@@ -477,6 +477,18 @@ link = "https://t.me/miljan88"
 icon = "fontawesome/solid/user-group"
 link = "https://teams.live.com/l/invite/FEAHXQEOJ7cRZXfXAY?v=g1"
 
+[[project.extra.social]]
+icon = "simple/upwork"
+link = "https://www.upwork.com/freelancers/~01e4f5fc284a258e26"
+
+[[project.extra.social]]
+icon = "simple/freelancer"
+link = "https://www.freelancer.com/u/miljanv4"
+
+[[project.extra.social]]
+icon = "custom/linkedin"
+link = "https://www.linkedin.com/in/miljan88"
+
 # [[project.extra.social]]
 # icon = "simple/gmail"
 # link = "mailto:vukadinovicmiljan8@gmail.com"
